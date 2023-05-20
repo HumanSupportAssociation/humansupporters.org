@@ -29,7 +29,7 @@ canonifyURLs = true
 [params]
   ga_id=""
   mainSections = ["post"]
-  defaultImage = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
+#  defaultImage = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
 
   [params.meta_tags]
     meta_description = "Ava is a light theme for your blog with essential features you might dig in."
@@ -37,7 +37,7 @@ canonifyURLs = true
     meta_og_sitename = "Hugo Ava Theme"
     meta_og_type = "website"
     meta_og_url = "https://jmau111.github.io/hugo-theme-ava-demo"
-    meta_og_image = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
+ #   meta_og_image = "https://raw.githubusercontent.com/jmau111/hugo-theme-ava/main/images/default.jpeg"
     meta_og_description = "Ava is a light theme for your blog with essential features you might dig in."
     meta_twitter_card = "summary"
     meta_twitter_site = "@gohugoio"
